@@ -87,13 +87,11 @@
 	  }
 	  .nav {
 	  
-	  background-image: url("img/burger.png");
-	
+	  background-image:url("../images/burger.png");
 	  min-height: 500px;
 	  background-position: center;
 	  background-repeat: no-repeat;
 	  grid-template-columns: auto auto;
-	  
 	  position: relative;
 	  
 	}
@@ -220,7 +218,7 @@
 	}
 .OpeningHours{
      position: relative;
-   /* background-image: url(images/OpeningHours.png);
+   /* background-image: url(../images/OpeningHours.png);
     background-color:#11a74d;
     */left: 0;
     bottom: 0;
@@ -255,7 +253,7 @@ th{
 } 
 
 .Foot{
-    /* background-image: url(images/FooterBG.png); */
+    /* background-image: url(../images/FooterBG.png); */
     display: grid;
     grid-template-columns: 33.3% 33.3% 33.3%;
     grid-template-rows: 100px 300px auto;
@@ -272,7 +270,7 @@ th{
     
 }
 .PvtLtd{
-    background-image: url(images/Rectangle\ 807\ copy\ 6.jpg);
+    background-image: url(../images/Rectangle\ 807\ copy\ 6.jpg);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -281,7 +279,7 @@ th{
 
 }
 .FollowUs{
-    background-image: url(images/Rectangle\ 807\ copy\ 5.jpg);
+    background-image: url(../images/Rectangle\ 807\ copy\ 5.jpg);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -289,7 +287,7 @@ th{
     
 }
 .NewsLetter{
-    background-image: url(images/Rectangle\ 807\ copy\ 4.png);
+    background-image: url(../images/Rectangle\ 807\ copy\ 4.png);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
